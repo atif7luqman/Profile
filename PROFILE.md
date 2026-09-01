@@ -12,4 +12,9 @@ Academician with hands-on experience in technical instruction, practical coursew
 
 ![This is my profile image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSroLenzU0UZZ9wEZGLWG-LC8L8nEopw4usqX0GqXl8lw&s=10)
 
+- [x] Convert text into issues # 739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+
 </div>
