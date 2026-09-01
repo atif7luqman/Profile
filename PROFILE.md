@@ -18,4 +18,6 @@ Academician with hands-on experience in technical instruction, practical coursew
 
 
 # The End
+
+* We are doing these changes in class.
 </div>
